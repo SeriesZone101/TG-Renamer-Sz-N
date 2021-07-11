@@ -24,7 +24,7 @@ status - Show Users Count in DB. (Admin Only)
 ```
 
 ### Support Group
-<a href="https://t.me/DeepakV111"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/DeepakV111"><img src="https://img.shields.io/badge/For%20Support-Contact-brightgreen"></a>
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
