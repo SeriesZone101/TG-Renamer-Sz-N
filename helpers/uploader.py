@@ -46,7 +46,7 @@ async def UploadFile(bot: Client, message: Message, file_path: str, file_size):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("Developer", url="https://t.me/DeepakV111")],
-                    [InlineKeyboardButton("Support Group", url="https://t.me/DeepakV111"),
+                    [InlineKeyboardButton("Support", url="https://t.me/DeepakV111"),
                      InlineKeyboardButton("Feedbacks", url="https://t.me/DeepakV111")]
                 ]
             )
